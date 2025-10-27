@@ -5,3 +5,4 @@ from main
 translation1 to translation2 from translations
 translation1 to translation2 from translations2
 from main submodule
+from main submodule2

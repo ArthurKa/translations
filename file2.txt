@@ -8,3 +8,4 @@ translation1 to translation2 from translations2
 from main submodule
 from main submodule2
 from GitHub
+from GitHub2
